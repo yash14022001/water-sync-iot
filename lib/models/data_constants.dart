@@ -1,0 +1,2 @@
+enum Pump {ON, OFF, UNDEFINED}
+enum WaterLevel {HIGH, MEDIUM, LOW, UNDEFINED}
